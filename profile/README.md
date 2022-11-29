@@ -1,14 +1,5 @@
 ## Welcome to the FooCorp Chronicles by CS. Lewis
 
+We made GNU social which had its part in starting the Fediverse! GNU social was a spin-off from GNU FM, which was the software we made to run Libre.fm -- Libre.fm has been federated for a very, very long time.
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Anyway, we're back, kind of. Libre.fm needs code for the next 15 years and we're here to write it once more. If you're interested, ping @mattl 
